@@ -44,7 +44,7 @@ public class Codebreaker {
     }
 
     /**
-     * getValidInput
+     * getValidMode
      * Ensures the user selects a valid mode (1, 2, or 3).
      * uses a loop to repeatedly prompt until valid input is provided
      * @param reader
