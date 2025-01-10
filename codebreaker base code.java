@@ -1,5 +1,6 @@
 /**
  * Codebreaker Game
+ * This is the non-GUI/console release
  * @author Zachary Vandenburg & Ibrahim Dhnanani
  * @version 1.0, 01/10/25
  * This program implements a Codebreaker game with two modes:
