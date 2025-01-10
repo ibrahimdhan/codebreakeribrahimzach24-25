@@ -1,7 +1,7 @@
 /**
  * Codebreaker Game
- * @author Zachary Vandenburg
- * @version 1.0, 01/15/25
+ * @author Zachary Vandenburg & Ibrahim Dhnanani
+ * @version 1.0, 01/10/25
  * This program implements a Codebreaker game with two modes:
  * 1. The computer sets a secret code, and the user guesses.
  * 2. The user sets a secret code, and the computer guesses based on feedback.
